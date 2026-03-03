@@ -2,6 +2,10 @@
 
 Generador de códigos QR moderno construido con React y Vite.
 
+## Descripcion
+
+Esta aplicacion permite generar códigos QR a partir de imagenes, PDFs o texto/URLs. Es una herramienta util para compartir informacion de manera rapida y sencilla mediante codigos QR personalizables.
+
 ## Tecnologias
 
 - **React 19** - Libreria UI
